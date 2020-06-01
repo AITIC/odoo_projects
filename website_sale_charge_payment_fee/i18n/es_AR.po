@@ -18,12 +18,12 @@ msgstr ""
 #. module: website_sale_charge_payment_fee
 #: model_terms:ir.ui.view,arch_db:website_sale_charge_payment_fee.payment_tokens_list_fee
 msgid "(Fee:"
-msgstr ""
+msgstr "(Cargo:"
 
 #. module: website_sale_charge_payment_fee
 #: model_terms:ir.ui.view,arch_db:website_sale_charge_payment_fee.cart_lines_fee
 msgid "Add one"
-msgstr ""
+msgstr "Agrega uno"
 
 #. module: website_sale_charge_payment_fee
 #: model:ir.model.fields,help:website_sale_charge_payment_fee.field_payment_acquirer__charge_fee
