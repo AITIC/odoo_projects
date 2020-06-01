@@ -58,7 +58,7 @@ msgstr "Tarifa cobrada al cliente"
 #. module: website_sale_charge_payment_fee
 #: selection:payment.acquirer,charge_fee_type:0
 msgid "Fixed"
-msgstr ""
+msgstr "Fijo"
 
 #. module: website_sale_charge_payment_fee
 #: model:ir.model.fields,field_description:website_sale_charge_payment_fee.field_payment_acquirer__charge_fee_fixed_price
