@@ -12,7 +12,7 @@
             </attribute>
         </xpath>
 
-        <xpath expr="//t[@t-elif='acq.fees_active']" position="after">
+        <xpath expr="//span[@class='payment_option_name']" position="after">
             <t t-if="acq.charge_fee">
                 <span>(Fee:
                     <t t-if="acq.charge_fee_type == 'fixed'">

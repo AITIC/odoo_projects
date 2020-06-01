@@ -3,7 +3,7 @@
 {
     "name": "eCommerce: charge payment fee",
     "summary": "Payment fee charged to customer",
-    "version": "13.0.1",
+    "version": "12.0.1",
     "author": "AITIC",
     "website": "http://www.aitic.com.ar",
     "license": "AGPL-3",
